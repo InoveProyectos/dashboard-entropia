@@ -72,7 +72,7 @@ const chartOptions2 = {
         id: 'value',
         type: 'linear',
         scaleLabel: {
-            labelString: 'mestros/seg',
+            labelString: 'metros/seg',
             display: true,
         },
         ticks: {
