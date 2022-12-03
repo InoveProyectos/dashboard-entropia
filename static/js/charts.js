@@ -28,9 +28,9 @@ const chartOptions = {
         },
         ticks: {
             beginAtZero: true,
-            steps: 10,
+            /*steps: 10,
             stepValue: 5,
-            max: 100
+            max: 100*/
         },
         position: 'left',
         }]
@@ -77,9 +77,9 @@ const chartOptions2 = {
         },
         ticks: {
             beginAtZero: true,
-            steps: 2,
+            /*steps: 2,
             stepValue: 5,
-            max: 20
+            max: 20*/
         },
         position: 'left',
         }]
